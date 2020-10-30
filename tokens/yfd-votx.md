@@ -26,9 +26,9 @@ description: YfDFI Finance Tokens
 * **YFD Staking Pool: 6000 YFD**
   * Contract address: 0x28F2E8822B6eb1BBA8f1C8Ab8df970d813b677D4
   * Etherscan explorer: [https://etherscan.io/address/0x28f2e8822b6eb1bba8f1c8ab8df970d813b677d4\#tokentxns](https://etherscan.io/address/0x28f2e8822b6eb1bba8f1c8ab8df970d813b677d4#tokentxns)
-* **Liquidity Farming Pool: 5000 YFD**
-  * Contract address: \(coming soon\)
-  * Etherscan explorer: \(coming soon\)
+* **Liquidity Farming Pool: 5000 YFD \(Locked on Smartcontract\)**
+  * Contract address: 0x9EC0c377e366Ef244beE03DdC866d90b70D30F12
+  * Etherscan explorer: [https://etherscan.io/address/0x9ec0c377e366ef244bee03ddc866d90b70d30f12\#code](https://etherscan.io/address/0x9ec0c377e366ef244bee03ddc866d90b70d30f12#code)
 * **Gigs & Rewards: 2000 YFD**
   * Public address: 0x3CFD516eF2C73c5BB51e61C9943E46fB2dadE360
   * Etherscan explorer: [https://etherscan.io/address/0x3cfd516ef2c73c5bb51e61c9943e46fb2dade360\#tokentxns](https://etherscan.io/address/0x3cfd516ef2c73c5bb51e61c9943e46fb2dade360#tokentxns)
