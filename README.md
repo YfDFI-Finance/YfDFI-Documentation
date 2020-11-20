@@ -8,7 +8,7 @@ YfDFI Finance aims to become the first DeFi Financial Center fully powered by th
 
 A simple vision, powered by the community, profitable for the community: no limit, no discrimination, just DeFi for a better world.
 
-## YfDFI Finance Ecosystem \(13/10/2020\)
+## YfDFI Finance Ecosystem \(15/11/2020\)
 
 {% hint style="info" %}
  Everything can evolve thanks to community ideas/proposals and votes. These docs will be continuously updated and date-stamped to fit the current reality of the ecosystem.
@@ -64,6 +64,7 @@ A simple vision, powered by the community, profitable for the community: no limi
 * Medium: [https://medium.com/yfdfi-finance ](https://medium.com/yfdfi-finance%20)
 * Twitter: [https://twitter.com/YfDFI\_Finance](https://twitter.com/YfDFI_Finance)
 * Discord: [https://discord.gg/jUTNmpp](https://discord.gg/jUTNmpp)
+* YouTube: [https://www.youtube.com/channel/UC-EUg37O4rg89ADqWWmWBLA](https://www.youtube.com/channel/UC-EUg37O4rg89ADqWWmWBLA)
 
 
 
