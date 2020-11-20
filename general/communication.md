@@ -14,4 +14,5 @@ description: All places to get informed about YfDFI Finance
 * [Discord](https://discord.gg/jUTNmpp)
 * [Twitter - Official](https://twitter.com/YfDFI_Finance)
 * [Medium](%20https://medium.com/yfdfi-finance%20)
+* [YouTube Channel](https://www.youtube.com/channel/UC-EUg37O4rg89ADqWWmWBLA)
 
