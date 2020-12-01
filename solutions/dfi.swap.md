@@ -20,7 +20,7 @@ DFI.Swap \(Alpha version\) development will start soon. The release date will be
 * Dedicated wallet for YFD token;
 * Connect with Metamask;
 * Deposit/Send DeFi tokens \(ERC-20\);
-* Atomic-Swap between ETH, YFD token and other DeFi tokens;
+* Swap between ETH, YFD token and other DeFi tokens;
 * User transaction history;
 * Video tutorials
 
