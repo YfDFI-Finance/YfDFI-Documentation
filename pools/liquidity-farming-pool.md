@@ -5,31 +5,32 @@ description: YfDFI Finance available liquidity farming pools.
 # Liquidity Farming Pool 🔄
 
 {% hint style="info" %}
-This section will present all liquidity farming pools available for ecosystem contributors. Currently there is no liquidity farming pool availale \(the Pool B - Uniswap Liquidity Farming Pool will be launched soon\).
+This section will present all liquidity farming pools available for ecosystem contributors. Currently there is no liquidity farming pool availale \(the Pool B - Uniswap Liquidity Farming Pool has been launched on 20th January 2021\).
 {% endhint %}
 
 ## Pool B - Uniswap Liquidity Farming Pool
 
 ![](../.gitbook/assets/liquidity-farming-pool-cover.jpg)
 
-The Pool B is a community-developed liquidity farming pool for liquidity providers on Uniswap. All Liquidity providers \(LPs\) on Uniswap will be able to farm their LP tokens \(Uniswap Pool Tokens\) and **earn up to 10% interest WEEKLY \(APW\)** until all YFD tokens reserved for Pool B are distributed.
+The Pool B is a community-developed liquidity farming pool for liquidity providers on Uniswap. All Liquidity providers \(LPs\) on Uniswap will be able to farm their LP tokens \(UNI-V2 tokens\) via our farming platform. 
+
+There will be four vaults to choose from, each with varying time-lock periods and reward supplies. Three of the four vaults will last for 12 months from the start date, expiring on the 20th January 2022. The fourth vault will last for an additional 6 months until 20th July 2022.
 
 ### How will you start farming with YFD?
 
 #### _Earn Uniswap Fee & YFD Tokens as rewards._
 
-* First you need to be a liquidity provider of [Pool \#1 - Uniswap Liquidity Pool](liquidity-pools.md#liquidity-pool-1-uniswap-weth-yfd) \(see video tutorial on [How-To](../) section\).
-* After depositing your \(WETH/YFD\) on Pool \#1 - Uniswap Liquidity Pool, you will receive LP tokens that you can redeem on Uniswap to get back the deposited investment.
-* After you’ve successfully farmed your LP tokens in the Pool B, you’ll **earn up to 10% interest weekly \(APW\) in YFD token** until all tokens dedicated to Pool B liquidity farming are distributed.
-  * _Note: you’ll be able to stop farming anytime by unfarming your LP tokens on_ [_https://farm.yfdfi.finance_](http://farm.yfdfi.finance)_._
+* Head over to UniSwap and locate the YFD/ETH liquidity pool under "Pools".
+* Add as much liquidity as you like. This works in a 50/50 ratio between YFD and ETH.
+* Head back to the YfDFI Farming Platform \(https://farm.yfdfi.finance/\), connect your wallet and choose the vault that you want to contribute to.
+* Deposit your YFD/ETH UNI-V2 LP tokens.
+* Sit back and watch the rewards roll in!
 
 ### How are the rewards will be distributed?
 
-* Rewards will be distributed on a daily basis \(earn up to 1.42% interest for each day of liquidity farming completed\);
-* The reward model can allow you to **earn up to 10% interest** for each week of liquidity farming completed;
-* A Liquidity Provider on Uniswap can farm and unfarm at any time, but they are only rewarded for the 24-hour periods that have been fully completed.
-  * For example, if you start farming at 10 am \(timestamp\), you will receive your daily reward every day at 10 am. Then, if you unfarm before 10 am, the current day would not have been fully completed and the reward would not be granted. So, be sure to unfarm shortly after the reward time corresponding to the time you initially start farming.
-* Liquidity farming rewards will last as long as there are tokens available \(i.e. 5K YFD initially dedicated for Pool B\)
+* Rewards will be distributed on a daily basis but cannot be withdrawn until the end of the time-lock period for that vault.
+* The APY earned is variable and will be based on the total number of farmers \(and LP tokens\) in each vault.
+* A Liquidity Provider on Uniswap can farm and unfarm at any time, once the initial time-lock has ended. Each vault has a different length of time-lock. The higher the time-lock, the higher the reward supply.
 
 
 
