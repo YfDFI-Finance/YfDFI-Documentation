@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to YfDFI Finance](README.md)
+* [Welcome to Your Finance Decentralized](README.md)
 
 ## General
 
