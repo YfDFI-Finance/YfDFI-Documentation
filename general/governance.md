@@ -1,18 +1,14 @@
 ---
-description: Introduction to YfDFI Finance governance model.
+description: Introduction to YFD governance model.
 ---
 
 # Governance
 
-**Your Finance Decentralized Governance Model**
-
-**‌**
+**Your Finance Decentralized Governance Model.**
 
 **YFD is a community-centered project, aiming to build the first DeFi Financial Center, fully governed by a worldwide community of DeFi enthusiasts.**
 
 **‌The ecosystem is governed by VOTX  token holders who submit and vote on proposals and who are eligible to receive a share of protocol profits. VOTX represents a right to govern and YFD gives the right to receive a portion of the ecosystem's profits. Most of the profits generated from each of YFD’s solutions \(DFI.Exchange, DFI.Swap, DFI.Insurance…\) will be redistributed to the community.**
-
-**‌**
 
 **Anyone can suggest a proposal, firstly within the DFI.Community forum to gauge the community interest and secondly at DFI.Governance \(in the near future\). DFI.Governance will be a user-friendly platform to set on-chain community votes related to the YFD ecosystem.**
 
