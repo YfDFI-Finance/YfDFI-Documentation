@@ -1,5 +1,5 @@
 ---
-description: YfDFI Finance available staking pools.
+description: YFD available staking pools.
 ---
 
 # Staking Pools ✅
@@ -8,7 +8,7 @@ description: YfDFI Finance available staking pools.
 This section will present all staking pools available for ecosystem contributors. Currently there is only one staking pool available.
 {% endhint %}
 
-## Pool A - YFD Token Staking Pool
+## Pool A - YFD Token Staking Pool \(Now Closed\)
 
 ![](../.gitbook/assets/staking-pool-cover-poola.jpg)
 
@@ -19,9 +19,8 @@ The Pool A is a community-developed staking pool for YFD token holders. All YFD 
 ### How do you start staking with YFD?
 
 * The easiest way to get YFD is to buy directly on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x4f4f0ef7978737ce928bff395529161b44e27ad9) or on [DFI.Exchange](https://dfi.exchange) — a decentralized trading platform or so called DEX launched by YfDFI Finance contributors.
-* Then, connecting a "Metamask" wallet holding your YFD tokens on [http://stake.yfdfi.finance](http://stake.yfdfi.finance) to stake your tokens \(see video tutorial on [How-To](../) section\).
+* Then, connecting a "Metamask" wallet holding your YFD tokens on https://yfd.io to stake your tokens \(see video tutorial on [How-To](../) section\).
 * After you’ve successfully staked your YFD tokens in Pool A, you’ll **earn up to 7.2% interest weekly \(APW\) in YFD token** until all tokens dedicated to staking are distributed.
-  * _Note: you’ll be able to stop staking anytime after 24 hours by unstaking your YFD tokens on_ [_http://stake.yfdfi.finance_](http://stake.yfdfi.finance)_._
 
 ### How are the rewards distributed?
 

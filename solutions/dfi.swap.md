@@ -1,7 +1,7 @@
 ---
 description: >-
-  The first Swap App dedicated to DeFi projects and fully governed by YfDFI
-  Finance community.
+  The first Swap App dedicated to DeFi projects and fully governed by YFD's
+  community.
 ---
 
 # DFI.Swap 🔄

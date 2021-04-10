@@ -1,14 +1,11 @@
 ---
-description: YfDFI Finance Tokens
+description: YFD Ecosystem Tokens
 ---
 
 # YFD & VOTX
 
 ## YFD Token
 
-* **YfDFI Finance - Governance token**
-  * Right to vote
-  * Right to receive a portion of YfDFI ecosystem's profits
 * **Total Supply: 20,000 YFD**
   * All tokens minted: there will never be more than 20,000 YFD tokens.
   * No burnable: YFD tokens aren't burnable.

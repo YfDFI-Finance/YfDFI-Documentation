@@ -16,7 +16,7 @@
 
 * [Liquidity Pools ✅](pools/liquidity-pools.md)
 * [Staking Pools ✅](pools/staking-pools.md)
-* [Liquidity Farming Pool 🔄](pools/liquidity-farming-pool.md)
+* [Liquidity Farming Pool ✅](pools/liquidity-farming-pool.md)
 
 ## Solutions
 
@@ -35,10 +35,10 @@
 
 ---
 
-* [Official Website](https://yfdfi.finance)
-* [Telegram](https://t.me/yfdfi_finance)
-* [Twitter](https://twitter.com/YfDFI_Finance)
-* [Medium](https://medium.com/yfdfi-finance)
+* [Official Website](https://yfd.io)
+* [Telegram](https://t.me/yourfinancedecentralized)
+* [Twitter](https://twitter.com/YFDecentralized)
+* [Medium](https://medium.com/yourfinancedecentralized)
 * [Discord](https://discord.gg/jUTNmpp)
 * [Github](https://github.com/YfDFI-Finance)
 * [Contact Us](mailto:community@yfdfi.finance)

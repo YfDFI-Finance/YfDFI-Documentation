@@ -1,8 +1,8 @@
 ---
-description: YfDFI Finance available liquidity farming pools.
+description: YFD available liquidity farming pools.
 ---
 
-# Liquidity Farming Pool 🔄
+# Liquidity Farming Pool ✅
 
 {% hint style="info" %}
 This section will present all liquidity farming pools available for ecosystem contributors. Currently there is no liquidity farming pool availale \(the Pool B - Uniswap Liquidity Farming Pool has been launched on 20th January 2021\).
@@ -22,7 +22,7 @@ There will be four vaults to choose from, each with varying time-lock periods an
 
 * Head over to UniSwap and locate the YFD/ETH liquidity pool under "Pools".
 * Add as much liquidity as you like. This works in a 50/50 ratio between YFD and ETH.
-* Head back to the YfDFI Farming Platform \(https://farm.yfdfi.finance/\), connect your wallet and choose the vault that you want to contribute to.
+* Head back to the YFD Farming Platform \(https://farm.yfd.io/\), connect your wallet and choose the vault that you want to contribute to.
 * Deposit your YFD/ETH UNI-V2 LP tokens.
 * Sit back and watch the rewards roll in!
 

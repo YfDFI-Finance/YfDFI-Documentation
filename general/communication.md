@@ -1,5 +1,5 @@
 ---
-description: All places to get informed about YfDFI Finance
+description: All places to get informed about Your Finance Decentralized
 ---
 
 # Communication

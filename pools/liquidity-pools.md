@@ -1,5 +1,5 @@
 ---
-description: YfDFI Finance available liquidity pools.
+description: YFD available liquidity pools.
 ---
 
 # Liquidity Pools ✅
@@ -12,7 +12,7 @@ This section will present all liquidity pools available for YFD token. Currently
 
 ![](../.gitbook/assets/uniswap_weth_yfd.jpg)
 
-* Tokens Wheight: 50% WETH / 50% YFD
+* Tokens Weight: 50% WETH / 50% YFD
 * Initial YFD supply available in the pool: 6,500 YFD
 * Liquidity Providers rewards:
   * Portion of transaction fee \(0.3% on Uniswap\)
