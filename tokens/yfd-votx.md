@@ -40,14 +40,15 @@ description: YfDFI Finance Tokens
 
 * DFI.Governance Fuel token
   * Used to submit a vote on DFI.Governance platform
-* Initial Supply: 1,000,000 VOTX
-  * Mintable: as every token used are burned, we kept it mintable in order to refill the Governance Contract when necessary.
-  * Burnable: VOTX tokens are burnable.
+* Initial Supply: 100,000 VOTX
+  * Mintable: No
+  * Burnable: No
 * Where to buy?
-
-  * VOTX isn't purchasable. To get it, YFD holders will need to stake their YFD tokens into the “Governance Contract” which will give them in exchange the equivalent in VOTX token; the fuel token used to vote on DFI.Governance.
-
-
-
-  _Note: VOTX token hasn't been issued yet. It will be created when DFI.Governance platform will be released._
+  * Uniswap initially and then DFI.Swap. YFD holders can also stake their YFD tokens or Uni-V2 LP tokens on one of the two new VOTX Staking or VOTX Farming Platforms.
+* Distribution:
+  * 65,000 VOTX will be locked in the Farming Rewards Pool, whereby **UNI-V2 LP holders can stake their LPs in return for 7.2% returns weekly**;
+  * 10,000 VOTX will be locked in the Staking rewards pool, whereby **YFD holders can stake their YFD in return for 4% returns weekly**;
+  * 10,000 will be used to provide liquidity in the Uniswap liquidity pool;
+  * 10,000 will be distributed amongst the early contributors of the project, and;
+  * 5,000 will be used to provide liquidity in the DFI.Swap pool.
 

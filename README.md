@@ -8,54 +8,78 @@ description: The first DeFi Financial Center fully powered by the community.
 
 A simple vision, powered by the community, profitable for the community: no limit, no discrimination, just DeFi for a better world.
 
-## YFD Ecosystem \(15/11/2020\)
+## **YFD Ecosystem \(08/04/2021\)**
 
 {% hint style="info" %}
  Everything can evolve thanks to community ideas/proposals and votes. These docs will be continuously updated and date-stamped to fit the current reality of the ecosystem.
 {% endhint %}
 
-### Liquidity Pool \#1 - Uniswap \[WETH/YFD\] \(Delivered ✅\)
+### **Liquidity Pool \#1 - Uniswap \[WETH/YFD\] \(Delivered ✅\)**
 
-* Community-powered liquidity pool on Uniswap: Pool \#1 - 50% WETH/50% YFD.
-* All liquidity providers are sharing 0.3% of transaction fee on the liquidity pool. Therefore, if you provide, for example, 20% liquidity to liquidity pool then you will earn 20% of the transaction fee.
+**‌**
 
-### Pool A - Staking Pool \(Delivered ✅\)
+* **Community-powered liquidity pool on Uniswap: Pool \#1 - 50% WETH/50% YFD.**
+* **All liquidity providers are sharing 0.3% of transaction fee on the liquidity pool. Therefore, if you provide, for example, 20% liquidity to the liquidity pool then you will earn 20% of the transaction fee.**
 
-* Community-developed staking pool for YFD token holders: [http://stake.yfdfi.finance](http://stake.yfdfi.finance).
-* YFD token holders can stake their tokens and earn up to 7.2% interest EVERY WEEK \(APW\) until all YFD tokens reserved for Pool A are distributed.
+### **Pool A - Staking Pool \(Delivered ✅\)**
 
-### DFI.Community \(Delivered ✅\)
+**‌Community-developed staking pool for YFD token holders:**[ **http://stake.yfdfi.finance**](http://stake.yfdfi.finance/)**.**
 
-* Community forum to discuss all subjects regarding YfDFI Finance, from General Chat to Technical Discussion, everyone could make its contribution.
-* All proposals and improvements would be freely discussed within [DFI.Community](http://dfi.community) to gauge the community interest before being officially voted on DFI.Governance \(coming soon\).
+* **YFD token holders can stake their tokens and earn up to 7.2% interest EVERY WEEK \(APW\) until all YFD tokens reserved for Pool A are distributed.**
 
-### DFI.Exchange \(Delivered ✅\)
+### **DFI.Community \(Delivered ✅\)**
 
-* The first Decentralized Exchange \(DEX\) dedicated to DeFi projects and fully governed by community \(DAO\).
-* All tokens will be listed after a community voting and all fees collected on [DFI.Exchange](https://dfi.exchange) will be automatically shared between all YFD holders on a monthly basis \(coming soon\).
+* **Community forum to discuss all subjects regarding Your Finance Decentralized, from General Chat to Technical Discussion, everyone could make its contribution.**
+* **All proposals and improvements would be freely discussed within**[ **DFI.Community**](http://dfi.community/) **to gauge the community interest before being officially voted on DFI.Governance \(coming soon\).**
 
-### Pool B - Uniswap Liquidity Farming Pool \(In progress… 🔄\)
+### **DFI.Exchange \(In progress… 🔄\)**
 
-* Community-developed liquidity farming pool for liquidity providers on Uniswap \(Liquidity Pool \#1 - WETH/YFD\).
-* Liquidity providers \(LPs\) on Uniswap Pool \#1 - WETH/YFD will be able to farm their LP tokens \(Uniswap Pool Tokens\) and earn up to 10% interest WEEKLY until all YFD tokens reserved for Pool B are distributed.
+* **The first Decentralized Exchange \(DEX\) dedicated to DeFi projects and fully governed by community \(DAO\).**
+* **All tokens will be listed after a community voting and all fees collected on**[ **DFI.Exchange**](https://dfi.exchange/) **will be automatically shared between all YFD holders on a monthly basis \(coming soon\).**
 
-### DFI.Swap \(Start soon… 🔄\)
+### **Pool B - Uniswap Liquidity Farming Pool \(Delivered ✅\)**
 
-* DFI.Swap is the first Swap App fully owned and governed by community. A kind of community-powered "Uniswap" dedicated to DeFi. It will allow people to easily exchange DeFi tokens \(YFI, COMP, UNI…\) or Liquidity Pool tokens \(BPT…\) against each other.
-* All fees collected on DFI.Swap will be automatically shared between all YFD holders on a monthly basis \(coming soon\).
+* **Community-developed liquidity farming pool for liquidity providers on Uniswap \(Liquidity Pool \#1 - WETH/YFD\).**
+* **Liquidity providers \(LPs\) on Uniswap Pool \#1 - WETH/YFD will be able to farm their LP tokens \(Uniswap Pool Tokens\) and earn up to 10% interest WEEKLY until all YFD tokens reserved for Pool B are distributed.**
 
-### DFI.Governance \(In progress… 🔄\)
+### **Pool C - VOTX Staking Pool \(Launching soon… 🔄\)**
 
-* Community-developed voting system to make easier the community’s decision-making process. DFI.Governance aims to be a user-friendly platform to set blockchain powered community voting related to YfDFI Finance ecosystem.
-* The ecosystem governance is fully controlled by YFD token holders and fueled with VOTX tokens.
+* **The VOTX Staking Event will offer stakers a weekly fixed interest rate of 4%. YFD holders will have the opportunity to stake their YFD on the platform and earn VOTX in return. Their reward will be calculated based on a standardized YFD price of $100, and the VOTX initial listing price of $2 \(i.e. for every 1 YFD staked, you will earn 2 VOTX weekly, regardless of price changes of either token\).**
+* **The staking pool will be capped at 1000 YFD. Once this cap is reached, no-one else will be able to enter the pool. The locking period for the pool will be 30 days, during which time it will not be possible to remove your staked position.**
+* **The total reward supply of the staking platform will be 10 000 VOTX, which will last a minimum duration of 5 weeks from the launch date.**
 
-### DFI.Insurance \(Coming soon 💡\)
+### **Pool D - VOTX Farming Pool \(Launching soon… 🔄\)**
 
-### DFI.Self-Banking \(Coming soon 💡\)
+* **All fees collected on DFI.Swap will be automatically shared between all YFD holders on a monthly basis \(coming soon\).**
+* **The VOTX Farming Event will offer farmers a weekly fixed interest rate of 7.2%. Liquidity providers will have the opportunity to stake their UNI-V2 LP tokens on the platform and earn VOTX in return. Their reward will be calculated based on a standardized YFD UNI-V2 price of $1200. \(i.e. For every 1 LP staked, you will earn 24 VOTX weekly\). The locking period for the pool will also be 30 days, during which time it will not be possible to remove your staked LPs.**
+* **The total reward supply for the farming platform will be 65000 VOTX, which will last a minimum duration of 4 weeks from the launch date.**
 
-### DFI.Ventures \(Coming soon 💡\)
+### **DFI.Swap \(Launching soon… 🔄\)**
 
-## Join YfDFI Community
+* **DFI.Swap is the first Swap App fully owned and governed by the community. A kind of community-powered "Uniswap" dedicated to DeFi. It will allow people to easily exchange DeFi tokens \(YFI, COMP, UNI…\) or Liquidity Pool tokens \(BPT…\) against each other.**
+* **All fees collected on DFI.Swap will be automatically shared between all YFD holders on a monthly basis \(coming soon\).**
+
+### **DFI.Governance \(Launching soon… 🔄\)**
+
+* **Community-developed voting system to make easier the community’s decision-making process. DFI.Governance aims to be a user-friendly platform to set blockchain powered community voting related to YFD ecosystem.**
+* **The ecosystem governance is fully controlled by YFD token holders and fueled with VOTX tokens.**
+
+### **DFI.StaaS \(In progress… 🔄\)**
+
+* **Staking-as-a-Service Platform that will provide a secure environment for projects to provide simple, hassle-free staking to their community.** 
+* **Only wallets containing $YFD \(no minimum\) will be able to access the platform. A 50% discount will be applied on platform fees IF fees are paid in $YFD.**
+
+### **DFI.Insurance \(Coming soon 💡\)**
+
+**‌**
+
+### **DFI.Self-Banking \(Coming soon 💡\)**
+
+**‌**
+
+### **DFI.Ventures \(Coming soon 💡\)**
+
+## Join YFD Community
 
 * Official Website: [https://yfd.io](https://yfd.io)
 * DFI.Community Forum: [http://dfi.community](http://dfi.community)
