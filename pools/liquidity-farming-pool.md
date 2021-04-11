@@ -34,3 +34,11 @@ There will be four vaults to choose from, each with varying time-lock periods an
 
 
 
+## **Pool D - VOTX Farming Pool \(Launching soon… 🔄\)**
+
+* **All fees collected on DFI.Swap will be automatically shared between all YFD holders on a monthly basis \(coming soon\).** 
+* **The VOTX Farming Event will offer farmers a weekly fixed interest rate of 7.2%. Liquidity providers will have the opportunity to stake their UNI-V2 LP tokens on the platform and earn VOTX in return. Their reward will be calculated based on a standardized YFD UNI-V2 price of $1200. \(i.e. For every 1 LP staked, you will earn 24 VOTX weekly\). The locking period for the pool will also be 30 days, during which time it will not be possible to remove your staked LPs.** 
+* **The total reward supply for the farming platform will be 65000 VOTX, which will last a minimum duration of 4 weeks from the launch date.**
+
+
+

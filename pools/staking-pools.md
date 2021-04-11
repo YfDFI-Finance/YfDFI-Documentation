@@ -28,7 +28,13 @@ The Pool A is a community-developed staking pool for YFD token holders. All YFD 
 * The reward model can allow you to **earn up to 7.2% interest** for each week of staking completed;
 * A YFD holder can stake and unstake at anytime, but they are only rewarded for the 24-hour periods that have been fully completed.
   * For example, if you stake at 10 am \(timestamp\), you will receive your daily reward every day at 10 am. Then, if you unstake before 10 am, the current day would not have been fully completed and the reward would not be granted. So, be sure to unstake shortly after the reward time corresponding to the time you initially staked.
-* Staking rewards will last as long as there are tokens available \(i.e. 6K YFD initially dedicated for Pool A\)
+* Staking rewards will last as long as there are tokens available \(i.e. 6K YFD initially dedicated for Pool A\)  
+
+## Pool C - VOTX Staking Pool **\(Launching soon… 🔄\)**
+
+* **The VOTX Staking Event will offer stakers a weekly fixed interest rate of 4%. YFD holders will have the opportunity to stake their YFD on the platform and earn VOTX in return. Their reward will be calculated based on a standardized YFD price of $100, and the VOTX initial listing price of $2 \(i.e. for every 1 YFD staked, you will earn 2 VOTX weekly, regardless of price changes of either token\).** 
+* **The staking pool will be capped at 1000 YFD. Once this cap is reached, no-one else will be able to enter the pool. The locking period for the pool will be 30 days, during which time it will not be possible to remove your staked position.** 
+* **The total reward supply of the staking platform will be 10 000 VOTX, which will last a minimum duration of 5 weeks from the launch date.**
 
 
 
